@@ -6,9 +6,9 @@ This is a simple Python application that allows you to encrypt and decrypt messa
 
 To use this application, you can clone this repository using the following command:
 
-     ```bash
-     git clone 
-     ```
+ ```bash
+ git clone https://github.com/aryanbhardwaj-rgb/CesarCypher.git
+ ```
 
 
 ## Usage
