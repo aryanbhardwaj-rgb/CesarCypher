@@ -14,7 +14,7 @@ To use this application, you can clone this repository using the following comma
 ## Usage
 
 1. Navigate to the directory where you cloned the repository.
-2. Run the `caesar_cipher_gui.py` file using Python.
+2. Run the `main.py` file using Python.
 3. Enter the text you want to encrypt or decrypt in the input field.
 4. Enter the shift value (an integer) to specify the encryption/decryption key.
 5. Select whether you want to encrypt or decrypt the text using the radio buttons.
